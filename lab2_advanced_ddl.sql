@@ -266,3 +266,4 @@ DROP DATABASE IF EXISTS university_distributed;
 
 CREATE DATABASE university_backup
 WITH TEMPLATE university_main;
+
